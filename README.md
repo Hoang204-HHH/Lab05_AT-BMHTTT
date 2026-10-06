@@ -76,7 +76,7 @@ Báo cáo thực hành môn **An toàn hệ thống thông tin** – Bộ môn A
 
 | Mục | Nội dung |
 | :-- | :-- |
-| A.1 – A.3 | Mục tiêu, ánh xạ VirtualBox → VMware, bảng IP, kiểm tra trùng dải mạng, phân bổ tài nguyên |
+| A.1 – A.3 | Mục tiêu, ánh xạ VMware, bảng IP, kiểm tra trùng dải mạng, phân bổ tài nguyên |
 | B.1 – B.3 | Tạo VM pfSense, kiểm tra SHA-256, cài đặt, gán interface và đặt LAN trên console |
 | B.4 | Domain Controller `vietnam.local` và DNS forwarder |
 | B.5 | Truy cập WebGUI, Setup Wizard, Dashboard |
@@ -91,7 +91,7 @@ Báo cáo thực hành môn **An toàn hệ thống thông tin** – Bộ môn A
 
 ## Ghi chú
 
-- Tài liệu hướng dẫn viết cho VirtualBox; bài làm dùng VMware Workstation với mạng tương đương (Bridged, Host-only VMnet10, LAN segment `dmz-net`).
+- bài làm dùng VMware Workstation với mạng tương đương (Bridged, Host-only VMnet10, LAN segment `dmz-net`).
 - Dùng Windows Server 2025 thay cho 2019/2022 (thao tác AD DS, DNS, IIS giống nhau). pfSense cấp 1 GB RAM thay vì 2 GB do máy thật chỉ có 8 GB.
 - Đã thực hiện đầy đủ phần cấu hình nền tảng (mục B.1 – B.9) và trả lời 6 câu hỏi mục D.
 - Chưa thực hiện: mục C (5 tình huống firewall) và máy LAN-Test; mục B.10 trong báo cáo chỉ giải thích vai trò và cấu hình dự kiến của LAN-Test.
