@@ -13,7 +13,7 @@ Báo cáo thực hành môn **An toàn hệ thống thông tin** – Bộ môn A
 | Giảng viên | Phạm Trọng Huynh |
 | Ngày thực hiện | 06/10/2026 |
 | File báo cáo | [11CNPM2-LAB5_1150080095-HuynhHuuHoang.docx](11CNPM2-LAB5_1150080095-HuynhHuuHoang.docx) |
-| Video thực hành | *(chưa cập nhật)* |
+| Video thực hành | *https://youtu.be/iw3yhIv9l-4* |
 
 ## Mục tiêu bài lab
 
